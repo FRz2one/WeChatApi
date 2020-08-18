@@ -1,6 +1,6 @@
 # 微信Api/WeChatApi
 
-微信机器人、微信api、微信发卡机器人、微信聊天机器人。
+狗子微信Api、微信机器人、微信api、微信发卡机器人、微信聊天机器人。
 
 基于Windows平台开发的微信Api，仅支持2.9.0.122版本。
 
@@ -18,7 +18,7 @@
 
 `WeChatSetup (2.9.0.112).exe`麻烦进群下载
 
-依赖： [Api](https://github.com/FRz2one/WeChatApi/blob/master/Api.rar)
+依赖： [点此下载Api.rar](https://github.com/FRz2one/WeChatApi/blob/master/Api.rar)
 
 # Http通信
 
@@ -28,6 +28,10 @@
 ## [文档](http://htmlpreview.github.io/?https://github.com/FRz2one/WeChatApi/blob/master/WeChatAPI.html)
 
 ## Demo
+
+### Java
+
+感谢静夜思贡献[Java客户端代码](https://gitee.com/sglmsn/wechat-api)
 
 ### Python
 
@@ -99,7 +103,7 @@ ws.run_forever()
 
 > 自己搭建一个WebSocket服务端，微信客户端数据以json的格式发送给服务端，优点：多端群控更方便
 >
-> 服务端丢给客户端的数据应包含[Http文档](http://htmlpreview.github.io/?https://github.com/FRz2one/WeChatApi/blob/master/WeChatAPI.html)中JSON对应的Name字段（除`WeChatID`外）
+> 服务端丢给客户端的数据应包含[Http文档](https://frz2one.github.io/Api.html)中JSON对应的Name字段（除`WeChatID`外）
 >
 > WeChat2.dll给你的JSON数据Name解释：
 >
@@ -115,13 +119,10 @@ ws.run_forever()
 
 > 变得更牛逼了
 
+0818：更新了
+
 # 交流
 
 请扫码微信加好友，到时我会拉入群，备注：bot。空了我会处理的。
 
 ![微信号：frz2one](https://cdn.jsdelivr.net/gh//FRz2one/WeChatApi/qrcode.png)
-
-
-
-
-
