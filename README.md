@@ -26,7 +26,7 @@
 
 > 以下内容基于`WeChatServer.exe`通信
 ## [文档](https://github.com/FRz2one/WeChatApi/blob/master/WeChat%20API.md)
-
+[文档](https://github.com/FRz2one/WeChatApi/blob/master/WeChat%20API.md)
 ## Demo
 
 ### Java
