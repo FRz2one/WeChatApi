@@ -123,6 +123,4 @@ ws.run_forever()
 
 # 交流
 
-请扫码微信加好友，到时我会拉入群，备注：bot。空了我会处理的。
-
-![微信号：frz2one](https://cdn.jsdelivr.net/gh//FRz2one/WeChatApi/qrcode.png)
+代码全删了
